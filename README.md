@@ -5,4 +5,4 @@
 - 🌱 I’m currently learning: OpenGL
 
 ---
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CodingWithMenno)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingWithMenno&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CodingWithMenno)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingWithMenno&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
