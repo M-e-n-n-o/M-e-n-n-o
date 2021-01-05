@@ -7,4 +7,4 @@
 ---
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CodingWithMenno)
 ---
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<CodingWithMenno>&theme=<THEME_NAME>" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingWithMenno)](https://github.com/anuraghazra/github-readme-stats)
