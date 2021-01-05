@@ -6,3 +6,5 @@
 
 ---
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CodingWithMenno)
+---
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<CodingWithMenno>&theme=<THEME_NAME>" />
