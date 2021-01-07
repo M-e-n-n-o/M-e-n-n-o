@@ -6,4 +6,4 @@
 
 
 ## 📈 Github Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingWithMenno&layout=compact&theme=vision-friendly-dark)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingWithMenno&layout=compact&theme=vision-friendly-dark)
