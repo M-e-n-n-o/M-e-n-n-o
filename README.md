@@ -1,5 +1,6 @@
 # 👋 Hello!
 
+I am Menno and i'm a second year student at Avans Hogeschool in the Netherlands studying Technical Informatics.
 
 - 🔭 **I’m currently working on:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;An OpenGL 3D Java Game
 - 🌱 **I’m currently learning:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OpenGL
