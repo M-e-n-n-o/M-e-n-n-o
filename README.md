@@ -2,7 +2,7 @@
 
 My name is Menno and i'm a second year student at Avans Hogeschool in the Netherlands studying Technical Informatics.
 
-- 🔭 **I’m currently working on:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;An OpenGL game
+- 🔭 **I’m currently working on:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;An OpenGL engine
 - 🌱 **I’m currently learning:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C++
 
 
