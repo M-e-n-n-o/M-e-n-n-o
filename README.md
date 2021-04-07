@@ -14,7 +14,7 @@ https://codingwithmenno.github.io/
 
 ---
 
-[![Repository](https://github-readme-stats.vercel.app/api/pin/?username=CodingWithMenno&repo=ByteCat&layout=compact&theme=vision-friendly-dark)]
+[![Repository](https://github-readme-stats.vercel.app/api/pin/?username=CodingWithMenno&repo=ByteCat&layout=compact&theme=vision-friendly-dark)](https://github.com/CodingWithMenno/ByteCat)
 
 ---
 
