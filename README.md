@@ -17,5 +17,4 @@ https://codingwithmenno.github.io/
 [![Repository](https://github-readme-stats.vercel.app/api/pin/?username=CodingWithMenno&repo=ByteCat&layout=compact&theme=vision-friendly-dark)](https://github.com/CodingWithMenno/ByteCat)
 
 ---
-
-[![Water](https://media.discordapp.net/attachments/378603538009292820/802181808888348722/unknown.png?width=1623&height=910)](https://github.com/CodingWithMenno/3DGame)
+[![Water](https://github.com/CodingWithMenno/CodingWithMenno.github.io/blob/master/res/game.png)](https://github.com/CodingWithMenno/3DGame)
