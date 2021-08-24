@@ -3,7 +3,7 @@
 My name is Menno and i'm a third year student at Avans Hogeschool in the Netherlands studying Technical Informatics.
 
 - 🔭 **I’m currently working on:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;An OpenGL engine + My internship WHOOOP WHOOP!
-- 🌱 **I’m currently learning:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C++ & Unity VR
+- 🌱 **I’m currently learning:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unity VR
 
 
 ## 📈 Github Stats:
