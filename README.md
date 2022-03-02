@@ -2,7 +2,7 @@
 
 My name is Menno and i'm a third year student at Avans Hogeschool in the Netherlands studying Technical Informatics.
 
-- 🔭 **I’m currently working on:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My own game engine "ByteCat" + My internship WHOOOP WHOOP!
+- 🔭 **I’m currently working on:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My own game engine "ByteCat" & TaskRush
 - 🌱 **I’m currently learning:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unity VR
 
 
