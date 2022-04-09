@@ -11,8 +11,6 @@ My name is Menno and i'm a third year student at Avans Hogeschool in the Netherl
 ## 👷 Current project(s):
 - My own graphics engine "ByteCat"
 - A VR game "TaskRush"
-- My own game console
-- My portfolio website
 
 
 ## 📈 Github Stats:
