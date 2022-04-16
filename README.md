@@ -17,4 +17,4 @@ My name is Menno and i'm a third year student at Avans Hogeschool in the Netherl
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingWithMenno&layout=compact&theme=vision-friendly-dark)
 
 ---
-[![Water](https://github.com/CodingWithMenno/CodingWithMenno.github.io/blob/master/res/game.png)](https://github.com/CodingWithMenno/3DGame)
+[![Water](ja.png)](https://github.com/CodingWithMenno/3DGame)
