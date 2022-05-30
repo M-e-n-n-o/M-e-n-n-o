@@ -1,11 +1,11 @@
 # 👋 Hello!
 
-My name is Menno and i'm a third year student at Avans Hogeschool in the Netherlands studying Technical Informatics.
+My name is Menno and i'm a third year student at Avans Hogeschool in the Netherlands studying Computer Science/engineering.
 
 
 ## 🌱 I'm currently learning:
 - Graphics programming
-- Unity VR
+- Formal methods
 
 
 ## 👷 Current project(s):
