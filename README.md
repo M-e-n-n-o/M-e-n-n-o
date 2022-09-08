@@ -1,6 +1,6 @@
 # 👋 Hello!
 
-My name is Menno and i'm a third year student at Avans Hogeschool in the Netherlands studying Computer Science and Engineering.
+My name is Menno and i'm a fourth year student at Avans Hogeschool in the Netherlands studying Computer Science and Engineering.
 
 To see all the projects I have worked on in my free time visit my website:
 [Portfolio website](https://m-e-n-n-o.github.io)
