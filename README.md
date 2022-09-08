@@ -7,12 +7,12 @@ To see all the projects I have worked on in my free time visit my website:
 
 ## 🌱 I'm currently learning:
 - Graphics programming
-- Formal methods
+- Marketing
 
 
 ## 👷 Current project(s):
+- Setting up my own business
 - My own graphics engine "ByteCat"
-- A VR game "TaskRush"
 
 
 ## 📈 Github Stats:
